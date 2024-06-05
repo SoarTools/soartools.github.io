@@ -1,0 +1,4 @@
+baseURL = 'https://soartools.github.io/'
+languageCode = 'de-DE'
+title = 'SoarTools'
+theme = 'soarToolsTheme'
